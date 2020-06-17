@@ -16,4 +16,3 @@ end  # This is the array we will be passing into the remove_strawberry method
       favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
     }
   }
-
